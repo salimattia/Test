@@ -4,3 +4,4 @@ Change File 2
 
 END 
 
+git rm --cached -r . 
